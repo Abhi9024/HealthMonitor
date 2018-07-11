@@ -1,0 +1,13 @@
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Test\bin\Debug\netcoreapp2.0\HealthMonitor.Test.deps.json
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Test\bin\Debug\netcoreapp2.0\HealthMonitor.Test.runtimeconfig.json
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Test\bin\Debug\netcoreapp2.0\HealthMonitor.Test.runtimeconfig.dev.json
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Test\bin\Debug\netcoreapp2.0\HealthMonitor.Test.dll
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Test\bin\Debug\netcoreapp2.0\HealthMonitor.Test.pdb
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Test\obj\Debug\netcoreapp2.0\HealthMonitor.Test.csproj.CoreCompileInputs.cache
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Test\obj\Debug\netcoreapp2.0\HealthMonitor.Test.AssemblyInfoInputs.cache
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Test\obj\Debug\netcoreapp2.0\HealthMonitor.Test.AssemblyInfo.cs
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Test\obj\Debug\netcoreapp2.0\HealthMonitor.Test.dll
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Test\obj\Debug\netcoreapp2.0\HealthMonitor.Test.pdb

@@ -1,0 +1,11 @@
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Entity\bin\Debug\netcoreapp2.0\HealthMonitor.Entity.deps.json
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Entity\bin\Debug\netcoreapp2.0\HealthMonitor.Entity.dll
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Entity\bin\Debug\netcoreapp2.0\HealthMonitor.Entity.pdb
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Entity\bin\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.dll
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Entity\bin\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.pdb
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.0\HealthMonitor.Entity.csprojResolveAssemblyReference.cache
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.0\HealthMonitor.Entity.csproj.CoreCompileInputs.cache
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.0\HealthMonitor.Entity.AssemblyInfoInputs.cache
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.0\HealthMonitor.Entity.AssemblyInfo.cs
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.0\HealthMonitor.Entity.dll
+D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.0\HealthMonitor.Entity.pdb

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HealthMonitor.Entity\HealthMonitor.Entity.csproj" />
+    <ProjectReference Include="..\HealthMonitor.Infrastructure\HealthMonitor.Infrastructure.csproj" />
+    <ProjectReference Include="..\HealthMonitor.Repo\HealthMonitor.Repo.csproj" />
+  </ItemGroup>
+
+</Project>
