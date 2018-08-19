@@ -3487,7 +3487,7 @@
       ]
     },
     "runtime.native.System.Net.Security/4.0.1": {
-      "sha512": "JlYh48rG8GN28Tkwvjn5CABg1R4aku6ETYk6gkgmOsBfcJeV53uuzssUIsDzL4QsAt+D0QkQrPih/vzJf8mCgA==",
+      "sha512": "Az6Ff6rZFb8nYGAaejFR6jr8ktt9f3e1Q/yKdw0pwHNTLaO/1eCAC9vzBoR9YAb0QeZD6fZXl1A9tRB5stpzXA==",
       "type": "package",
       "path": "runtime.native.system.net.security/4.0.1",
       "files": [
@@ -4253,7 +4253,7 @@
       ]
     },
     "System.Diagnostics.TraceSource/4.0.0": {
-      "sha512": "6vgjzwOBAVBi6TXbrU8RQ3lz06XcWH5cG9xwGtNBHJCyODl5XXoOnWT7ZkHf8pHWAYpYr8RInKO+8WG+zNz6ww==",
+      "sha512": "6WVCczFZKXwpWpzd/iJkYnsmWTSFFiU24Xx/YdHXBcu+nFI/ehTgeqdJQFbtRPzbrO3KtRNjvkhtj4t5/WwWsA==",
       "type": "package",
       "path": "system.diagnostics.tracesource/4.0.0",
       "files": [
@@ -4911,7 +4911,7 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "NKu7PfQzieGwE3QxJ3+ZwAK597sKgYilB570dyTpJfcXZETbF9oKSkp2a8t43aoxi85yVtpIDozua1gtLXL1Xg==",
+      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
@@ -5182,7 +5182,7 @@
       ]
     },
     "System.Net.Security/4.0.0": {
-      "sha512": "/Vs/OUWobnyNlJ8FIYJzeRM0gadY7//5NQ0pX4av/IwM/Y7zLCAbyVHjd4shIVQe+fvwLwqw6iK84WakqGVLaA==",
+      "sha512": "uM1JaYJciCc2w7efD6du0EpQ1n5ZQqE6/P43/aI4H5E59qvP+wt3l70KIUF/Ha7NaeXGoGNFPVO0MB80pVHk2g==",
       "type": "package",
       "path": "system.net.security/4.0.0",
       "files": [
@@ -7118,11 +7118,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.Common\\HealthMonitor.Common.csproj",
+      "projectUniqueName": "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.Common\\HealthMonitor.Common.csproj",
       "projectName": "HealthMonitor.Common",
-      "projectPath": "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.Common\\HealthMonitor.Common.csproj",
+      "projectPath": "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.Common\\HealthMonitor.Common.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.Common\\obj\\",
+      "outputPath": "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7141,11 +7141,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.Infrastructure\\HealthMonitor.Infrastructure.csproj": {
-              "projectPath": "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.Infrastructure\\HealthMonitor.Infrastructure.csproj"
+            "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.Infrastructure\\HealthMonitor.Infrastructure.csproj": {
+              "projectPath": "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.Infrastructure\\HealthMonitor.Infrastructure.csproj"
             },
-            "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.Entity\\HealthMonitor.Entity.csproj": {
-              "projectPath": "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.Entity\\HealthMonitor.Entity.csproj"
+            "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.Entity\\HealthMonitor.Entity.csproj": {
+              "projectPath": "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.Entity\\HealthMonitor.Entity.csproj"
             }
           }
         }

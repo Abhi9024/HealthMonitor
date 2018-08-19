@@ -6,3 +6,11 @@ D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Infrastructure\obj\Debug\netc
 D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Infrastructure\obj\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.AssemblyInfo.cs
 D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Infrastructure\obj\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.dll
 D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Infrastructure\obj\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.pdb
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Infrastructure\bin\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.deps.json
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Infrastructure\bin\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.dll
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Infrastructure\bin\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.pdb
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Infrastructure\obj\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Infrastructure\obj\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.AssemblyInfoInputs.cache
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Infrastructure\obj\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.AssemblyInfo.cs
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Infrastructure\obj\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.dll
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Infrastructure\obj\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.pdb

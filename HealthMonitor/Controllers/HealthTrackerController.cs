@@ -19,12 +19,14 @@ namespace HealthMonitor.Controllers
         private IDataProvider _dataProvider;
         private ILogger<HealthTrackerController> _logger;
         private SignInManager<UserCredential> _signInMgr;
+        private UserManager<UserCredential> _userMgr;
 
-        public HealthTrackerController(IDataProvider dataProvider,ILogger<HealthTrackerController> logger,SignInManager<UserCredential> signInManager)
+        public HealthTrackerController(IDataProvider dataProvider,ILogger<HealthTrackerController> logger,SignInManager<UserCredential> signInManager,UserManager<UserCredential> userManager)
         {
             _dataProvider = dataProvider;
             _logger = logger;
             _signInMgr = signInManager;
+            _userMgr = userManager;
         }
 
         // GET: api/HealthTracker/Users
@@ -69,7 +71,17 @@ namespace HealthMonitor.Controllers
             var result = await _signInMgr.PasswordSignInAsync(user.UserName, user.Password, false, false);
             var status = result.Succeeded;
         }
-        
+
+        [AllowAnonymous]
+        [HttpPost]
+        [Route("Register")]
+        public async Task RegisterUser([FromBody] UserAuthModel user)
+        {
+            var userCred = new UserCredential() { UserName = user.UserName,Email= user.UserName +"@email.com" };
+            var result = await _userMgr.CreateAsync(userCred, user.Password);
+            var status = result.Succeeded;
+        }
+
         // POST: api/HealthTracker
         [HttpPost]
         public void Post([FromBody]string value)

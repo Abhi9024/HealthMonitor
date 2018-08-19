@@ -711,11 +711,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.Infrastructure\\HealthMonitor.Infrastructure.csproj",
+      "projectUniqueName": "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.Infrastructure\\HealthMonitor.Infrastructure.csproj",
       "projectName": "HealthMonitor.Infrastructure",
-      "projectPath": "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.Infrastructure\\HealthMonitor.Infrastructure.csproj",
+      "projectPath": "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.Infrastructure\\HealthMonitor.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.Infrastructure\\obj\\",
+      "outputPath": "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

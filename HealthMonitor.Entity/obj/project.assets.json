@@ -3135,7 +3135,7 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "NKu7PfQzieGwE3QxJ3+ZwAK597sKgYilB570dyTpJfcXZETbF9oKSkp2a8t43aoxi85yVtpIDozua1gtLXL1Xg==",
+      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
@@ -4353,11 +4353,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.Entity\\HealthMonitor.Entity.csproj",
+      "projectUniqueName": "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.Entity\\HealthMonitor.Entity.csproj",
       "projectName": "HealthMonitor.Entity",
-      "projectPath": "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.Entity\\HealthMonitor.Entity.csproj",
+      "projectPath": "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.Entity\\HealthMonitor.Entity.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.Entity\\obj\\",
+      "outputPath": "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4376,8 +4376,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.Infrastructure\\HealthMonitor.Infrastructure.csproj": {
-              "projectPath": "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.Infrastructure\\HealthMonitor.Infrastructure.csproj"
+            "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.Infrastructure\\HealthMonitor.Infrastructure.csproj": {
+              "projectPath": "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.Infrastructure\\HealthMonitor.Infrastructure.csproj"
             }
           }
         }

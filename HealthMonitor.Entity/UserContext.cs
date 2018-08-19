@@ -16,6 +16,7 @@ namespace HealthMonitor.Entity
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<User>(entity =>
             {
                 entity.Property(e => e.Name).HasColumnType("varchar(200)");
@@ -29,11 +30,7 @@ namespace HealthMonitor.Entity
                 entity.Property(e => e.LogLevel).HasMaxLength(50);
                 entity.Property(e => e.Message).HasMaxLength(4000);
             });
-            modelBuilder.Entity<UserCredential>(entity =>
-            {
-                entity.Property(e => e.UserId).HasColumnType("varchar(200)");
-                entity.Property(e => e.Password).HasColumnType("nvarchar(max)");
-            });
+           
         }
     }
 }

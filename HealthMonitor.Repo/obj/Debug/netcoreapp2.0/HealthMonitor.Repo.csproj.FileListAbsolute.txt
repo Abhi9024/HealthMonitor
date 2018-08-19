@@ -11,3 +11,16 @@ D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Repo\obj\Debug\netcoreapp2.0\
 D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Repo\obj\Debug\netcoreapp2.0\HealthMonitor.Repo.AssemblyInfo.cs
 D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Repo\obj\Debug\netcoreapp2.0\HealthMonitor.Repo.dll
 D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Repo\obj\Debug\netcoreapp2.0\HealthMonitor.Repo.pdb
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Repo\bin\Debug\netcoreapp2.0\HealthMonitor.Repo.deps.json
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Repo\bin\Debug\netcoreapp2.0\HealthMonitor.Repo.dll
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Repo\bin\Debug\netcoreapp2.0\HealthMonitor.Repo.pdb
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Repo\bin\Debug\netcoreapp2.0\HealthMonitor.Entity.dll
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Repo\bin\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.dll
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Repo\bin\Debug\netcoreapp2.0\HealthMonitor.Entity.pdb
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Repo\bin\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.pdb
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Repo\obj\Debug\netcoreapp2.0\HealthMonitor.Repo.csprojResolveAssemblyReference.cache
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Repo\obj\Debug\netcoreapp2.0\HealthMonitor.Repo.csproj.CoreCompileInputs.cache
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Repo\obj\Debug\netcoreapp2.0\HealthMonitor.Repo.AssemblyInfoInputs.cache
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Repo\obj\Debug\netcoreapp2.0\HealthMonitor.Repo.AssemblyInfo.cs
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Repo\obj\Debug\netcoreapp2.0\HealthMonitor.Repo.dll
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Repo\obj\Debug\netcoreapp2.0\HealthMonitor.Repo.pdb

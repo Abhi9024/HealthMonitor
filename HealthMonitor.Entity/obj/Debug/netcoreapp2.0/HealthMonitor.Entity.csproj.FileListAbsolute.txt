@@ -9,3 +9,14 @@ D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.
 D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.0\HealthMonitor.Entity.AssemblyInfo.cs
 D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.0\HealthMonitor.Entity.dll
 D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.0\HealthMonitor.Entity.pdb
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Entity\bin\Debug\netcoreapp2.0\HealthMonitor.Entity.deps.json
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Entity\bin\Debug\netcoreapp2.0\HealthMonitor.Entity.dll
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Entity\bin\Debug\netcoreapp2.0\HealthMonitor.Entity.pdb
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Entity\bin\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.dll
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Entity\bin\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.pdb
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.0\HealthMonitor.Entity.csprojResolveAssemblyReference.cache
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.0\HealthMonitor.Entity.csproj.CoreCompileInputs.cache
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.0\HealthMonitor.Entity.AssemblyInfoInputs.cache
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.0\HealthMonitor.Entity.AssemblyInfo.cs
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.0\HealthMonitor.Entity.dll
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Entity\obj\Debug\netcoreapp2.0\HealthMonitor.Entity.pdb

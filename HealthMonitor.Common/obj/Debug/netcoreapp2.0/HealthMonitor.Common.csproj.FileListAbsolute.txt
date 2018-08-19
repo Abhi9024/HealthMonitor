@@ -11,3 +11,16 @@ D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Common\obj\Debug\netcoreapp2.
 D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Common\obj\Debug\netcoreapp2.0\HealthMonitor.Common.AssemblyInfo.cs
 D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Common\obj\Debug\netcoreapp2.0\HealthMonitor.Common.dll
 D:\MyLearning\Learning\HealthMonitor\HealthMonitor.Common\obj\Debug\netcoreapp2.0\HealthMonitor.Common.pdb
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Common\bin\Debug\netcoreapp2.0\HealthMonitor.Common.deps.json
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Common\bin\Debug\netcoreapp2.0\HealthMonitor.Common.dll
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Common\bin\Debug\netcoreapp2.0\HealthMonitor.Common.pdb
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Common\bin\Debug\netcoreapp2.0\HealthMonitor.Entity.dll
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Common\bin\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.dll
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Common\bin\Debug\netcoreapp2.0\HealthMonitor.Entity.pdb
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Common\bin\Debug\netcoreapp2.0\HealthMonitor.Infrastructure.pdb
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Common\obj\Debug\netcoreapp2.0\HealthMonitor.Common.csprojResolveAssemblyReference.cache
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Common\obj\Debug\netcoreapp2.0\HealthMonitor.Common.csproj.CoreCompileInputs.cache
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Common\obj\Debug\netcoreapp2.0\HealthMonitor.Common.AssemblyInfoInputs.cache
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Common\obj\Debug\netcoreapp2.0\HealthMonitor.Common.AssemblyInfo.cs
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Common\obj\Debug\netcoreapp2.0\HealthMonitor.Common.dll
+D:\MyLearning\AngularAspNetCore\HealthMonitor\HealthMonitor.Common\obj\Debug\netcoreapp2.0\HealthMonitor.Common.pdb

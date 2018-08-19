@@ -36,7 +36,7 @@ namespace HealthMonitor
 
             services.AddMvc();
             services.AddDataProtection();
-            services.AddDbContext<UserContext>(options => options.UseSqlServer(connection));
+            services.AddDbContext<UserContext>(options => options.UseSqlServer(connection,b=>b.MigrationsAssembly("HealthMonitor")));
             services.AddTransient<IDataProvider, DataProvider>();
             services.AddTransient<IUserRepoMongo, UserRepoMongo>();
             services.AddTransient<IUserRepoEF, UserRepoEF>();

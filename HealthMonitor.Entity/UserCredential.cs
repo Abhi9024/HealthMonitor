@@ -7,7 +7,6 @@ namespace HealthMonitor.Entity
 {
     public class UserCredential :IdentityUser
     {
-        public string  UserId { get; set; }
-        public string  Password { get; set; }
+        
     }
 }

@@ -30,7 +30,7 @@ export class HTService {
 
     authenticateUser(): Observable<any> {
 
-        var body = { userName : "Test", password : "Test123$" };
+        var body = { userName : "Abhi", password : "Welcome123$" };
 
         return this.http.post(this.baseUrl + "api/HealthTracker/Auth", body)
             .map((res) => { return res.json; }).catch(this.handleError);

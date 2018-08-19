@@ -5476,7 +5476,7 @@
       ]
     },
     "System.Xml.XPath.XmlDocument/4.0.1": {
-      "sha512": "et93dGvKoU5KROAVyUvtwcJ/28D4XhZ1gfBFvpcV1xByRcNkrAX5oYyTvMUHaHozrdxWOsftboLM0PC3B/M6YQ==",
+      "sha512": "Zm2BdeanuncYs3NhCj4c9e1x3EXFzFBVv2wPEc/Dj4ZbI9R8ecLSR5frAsx4zJCPBtKQreQ7Q/KxJEohJZbfzA==",
       "type": "package",
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "files": [
@@ -5624,11 +5624,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.DAC.Test\\HealthMonitor.DAC.Test.csproj",
+      "projectUniqueName": "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.DAC.Test\\HealthMonitor.DAC.Test.csproj",
       "projectName": "HealthMonitor.DAC.Test",
-      "projectPath": "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.DAC.Test\\HealthMonitor.DAC.Test.csproj",
+      "projectPath": "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.DAC.Test\\HealthMonitor.DAC.Test.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\MyLearning\\Learning\\HealthMonitor\\HealthMonitor.DAC.Test\\obj\\",
+      "outputPath": "D:\\MyLearning\\AngularAspNetCore\\HealthMonitor\\HealthMonitor.DAC.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
