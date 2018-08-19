@@ -1,0 +1,42 @@
+﻿@model List<UserViewModel>
+@{
+}
+
+<br/>
+<div class="row">
+
+    @foreach (var user in Model)
+    {
+
+        <div class="col-sm-3">
+            <p><sm>Name: </sm><b>@user.Name</b></p>
+            <p>
+                <sm>HeartRate: </sm><b>@user.HeartRate</b>
+            </p>
+            <p>
+                <sm>BP: </sm><b>@user.BloodPressure</b>
+            </p>
+            <p>
+                <sm>Sugar: </sm><b>@user.GlucoseLevel</b>
+            </p>
+            <p>
+                <sm>Creatine: </sm><b>@user.CreatineLevel</b>
+            </p>
+            <p><sm>Date: </sm><b>@user.Date</b></p>
+            <hr/>
+
+            <p>
+                @Html.ActionLink("Edit", "EditUser", new { id = user.Id }) |
+                @Html.ActionLink("Delete", "Delete", new  { id = user.Id })
+            </p>
+            <hr/>
+
+        </div>
+
+
+    }
+</div>
+
+
+
+      
